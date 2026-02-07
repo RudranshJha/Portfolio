@@ -10,4 +10,5 @@ Onsager-type approximations. Using a non-quadratic, anisotropic geometric struct
 a geometric evolution principle and an associated entropy principle that must be satisfied by all
 relevant thermodynamic systems.
 ———————————————————————————
+
 Completely self driven

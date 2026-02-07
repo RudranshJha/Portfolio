@@ -1,3 +1,7 @@
+https://www.linkedin.com/in/rudranshjha/
+
+———————————————————————————————————————
+
 # Geometric Non-Equilibrium Thermodynamics
 **On a Geometric Framework for Far-from-Equilibrium
 Thermodynamics**

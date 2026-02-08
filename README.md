@@ -11,6 +11,6 @@ irreversible systems at arbitrary distances from equilibrium, without assuming l
 Onsager-type approximations. Using a non-quadratic, anisotropic geometric structure, we derive
 a geometric evolution principle and an associated entropy principle that must be satisfied by all
 relevant thermodynamic systems.
-———————————————————————————
+—————————————————————————
 
 Completely self driven

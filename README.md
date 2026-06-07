@@ -1,17 +1,7 @@
+email: rudranshnarayanjha@gmail.com
 
+(I literally have to make this now)
+if you're here because you saw my paper on https://zenodo.org/records/20558804 and want to reach out to me 
+do use the email listed above
 
-# Geometric Non-Equilibrium Thermodynamics
-**On a Geometric Framework for Far-from-Equilibrium
-Thermodynamics**
-
- https://zenodo.org/records/18521103
- 
- This paper establishes a general geometric framework governing the evolution of completely
-irreversible systems at arbitrary distances from equilibrium, without assuming linear or quadratic
-Onsager-type approximations. Using a non-quadratic, anisotropic geometric structure, we derive
-a geometric evolution principle and an associated entropy principle that must be satisfied by all
-relevant thermodynamic systems.
-
-——————————————————————
-
-Completely self driven
+(yes I will put it on arxiv soon, and it has been submitted to a journal very recently (peer review pending))

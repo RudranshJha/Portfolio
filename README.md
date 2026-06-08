@@ -1,6 +1,6 @@
 Email: rudranshnarayanjha@gmail.com 
 
-**LATEST VERSION : Finsler-Lagrange Geometry of Far-from-Equilibrium Thermodynamics**
+**▪ LATEST VERSION : Finsler-Lagrange Geometry of Far-from-Equilibrium Thermodynamics**
 
 https://zenodo.org/records/20558804 (yes I will get it on arxiv eventually)
 (presently submitted to Physical Review E.)
@@ -30,3 +30,5 @@ If instead, in a region the deviation is positive, it would imply nearby traject
 
 ▪ The framework at present accounts for completely dissipative non stochastic processes. But it could naturally be extended to include both dissipative and stochastic processes via the inclusion of a momentum density and a probability density field on the state-space.
 
+**▪ OLDER VERSION : https://zenodo.org/records/18997136**
+**▪ OLDEST VERSION: https://zenodo.org/records/18561207** 

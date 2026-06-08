@@ -5,6 +5,8 @@ Email: rudranshnarayanjha@gmail.com
 https://zenodo.org/records/20558804 (yes I will get it on arxiv eventually)
 (presently submitted to Physical Review E.)
 
+Summary (just read the paper instead this has none of the math here; haven't included everything here): 
+
 ▪ Used Lagrange Spaces(not to be confused with Lagrangian Mechanics) to create a framework for non-equilibrium systems valid at arbitrary distance from      equilibrium
 
 ▪ Lagrangian allows for asymmetry in velocities (due to non linear odd terms) which basically represents dissipative anisotropy. We dont use finsler spaces  here because they'd restrict entropy production to be 2 homogenous in fluxes

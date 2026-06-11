@@ -34,3 +34,4 @@ If instead, in a region the deviation is positive, it would imply nearby traject
 
 **▪ OLDER VERSION : https://zenodo.org/records/18997136**
 **▪ OLDEST VERSION: https://zenodo.org/records/18561207** 
+It is only because of my failed attempts at using finsler geometry and geodesics to describe thermodynamics that I was able to create the structure that now exists, and was able to state the limitations of the former.

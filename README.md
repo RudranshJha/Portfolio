@@ -2,7 +2,7 @@ Email: rudranshnarayanjha@gmail.com
 
 **▪ LATEST VERSION : Finsler-Lagrange Geometry of Far-from-Equilibrium Thermodynamics**
 
-https://zenodo.org/records/20558804 (yes I will get it on arxiv eventually)
+https://zenodo.org/records/20558804 (arxiv decided to put it on hold)
 (presently submitted to Physical Review E.)
 
 Summary (just read the paper instead this has none of the math here; haven't included everything here): 
